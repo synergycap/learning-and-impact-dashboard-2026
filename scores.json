@@ -3,7 +3,7 @@
   "scores": [
     {
       "name": "Sheila Narvasa",
-      "vol": 20,
+      "vol": 27,
       "skl": 0,
       "volEvents": 5,
       "sklEvents": 0
@@ -26,28 +26,28 @@
       "name": "Aditya Mehra",
       "vol": 5,
       "skl": 10,
-      "volEvents": 1,
-      "sklEvents": 1
+      "volEvents": 0,
+      "sklEvents": 0
     },
     {
       "name": "Arlene Joyce Villafuerte",
       "vol": 15,
       "skl": 0,
-      "volEvents": 3,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Rose Anne Ayad",
       "vol": 13,
       "skl": 0,
-      "volEvents": 3,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Pranav Shastry",
       "vol": 10,
       "skl": 0,
-      "volEvents": 2,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
@@ -55,41 +55,41 @@
       "vol": 0,
       "skl": 10,
       "volEvents": 0,
-      "sklEvents": 1
+      "sklEvents": 0
     },
     {
       "name": "Ann-An Antonio",
       "vol": 8,
       "skl": 0,
-      "volEvents": 2,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Ayushi Agrawal",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Gideon Balolot",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Jereca Custodio",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Angeline Ferrer",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
@@ -97,34 +97,34 @@
       "vol": 0,
       "skl": 5,
       "volEvents": 0,
-      "sklEvents": 1
+      "sklEvents": 0
     },
     {
       "name": "Louchelle Maraddag",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Aditya Palod",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Sreenivas Prasad Prayaga",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Archana Shankar",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
@@ -243,28 +243,28 @@
       "name": "Veer Berea",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Angana Maheshwari",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Ayush Maheshwari",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
       "name": "Oscar Giulio Santi",
       "vol": 5,
       "skl": 0,
-      "volEvents": 1,
+      "volEvents": 0,
       "sklEvents": 0
     },
     {
