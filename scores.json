@@ -1,349 +1,333 @@
 {
-  "updated": "3 July 2026",
+  "updated": "16 July 2026",
   "scores": [
     {
       "name": "Sheila Narvasa",
+      "team": "synergy",
       "vol": 20,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Ramona Cruz",
+      "team": "synergy",
       "vol": 5,
       "skl": 15,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Noushad Mohammad",
+      "team": "synergy",
       "vol": 19,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Aditya Mehra",
+      "team": "synergy",
       "vol": 5,
       "skl": 10,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Arlene Joyce Villafuerte",
+      "team": "synergy",
       "vol": 15,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Rose Anne Ayad",
+      "team": "synergy",
       "vol": 13,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Pranav Shastry",
+      "team": "synergy",
       "vol": 10,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Hywel Ap John Phillip",
+      "team": "synergy",
       "vol": 0,
       "skl": 10,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Ann-An Antonio",
+      "team": "synergy",
       "vol": 8,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Ayushi Agrawal",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Gideon Balolot",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Jereca Custodio",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Angeline Ferrer",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Jacob Douwe Kalverkamp",
+      "team": "synergy",
       "vol": 0,
       "skl": 5,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Louchelle Maraddag",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Aditya Palod",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Sreenivas Prasad Prayaga",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Archana Shankar",
+      "team": "synergy",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Gunjan Beria",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Vaibhav Bharadia",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Vishnu Vardhan Reddy B.",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Gregory Chew Rong Hao",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Amrendra Prasad Choudhary",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Davinder Kumar Chugh",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Atul Gupta",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Rajesh Suryakant Khatri",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Satish Kumar Jain",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Jonathan Lugares",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Saurabh Maheshwari",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Mayank Misra",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Shaina Marie Navarro",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Ajitesh Pahwa",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Arjun Sharma",
+      "team": "synergy",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
-    },
-    {
-      "name": "Ranganathan Venkataramani",
-      "vol": 0,
-      "skl": 0,
-      "volEvents": 0,
-      "sklEvents": 0,
-      "team": "synergy"
+      "sklEvents": 0
     },
     {
       "name": "Veer Berea",
+      "team": "mayfair",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Angana Maheshwari",
+      "team": "mayfair",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Ayush Maheshwari",
+      "team": "mayfair",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Oscar Giulio Santi",
+      "team": "mayfair",
       "vol": 5,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Salma Awwad",
+      "team": "mayfair",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Ananya Maheshwari",
+      "team": "mayfair",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
-    },
-    {
-      "name": "Nikunj Nagalia",
-      "vol": 0,
-      "skl": 0,
-      "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Diksha Tilwani",
+      "team": "mayfair",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     },
     {
       "name": "Vinay Vudutha",
+      "team": "mayfair",
       "vol": 0,
       "skl": 0,
       "volEvents": 0,
-      "sklEvents": 0,
-      "team": "mayfair"
+      "sklEvents": 0
     }
   ]
 }
