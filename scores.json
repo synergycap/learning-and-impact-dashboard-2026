@@ -4,7 +4,7 @@
     {
       "name": "Sheila Narvasa",
       "team": "synergy",
-      "vol": 20,
+      "vol": 27,
       "skl": 0,
       "volEvents": 5,
       "sklEvents": 0
@@ -211,6 +211,14 @@
     },
     {
       "name": "Satish Kumar Jain",
+      "team": "synergy",
+      "vol": 0,
+      "skl": 0,
+      "volEvents": 0,
+      "sklEvents": 0
+    },
+    {
+      "name": "Jonathan Lugares",
       "team": "synergy",
       "vol": 0,
       "skl": 0,
